@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: cornflowerblue;
+  transition: color 0.5s ease-in-out;
+}
+
+.active {
+  color: rgb(230, 60, 94);
+}
+
+.sexy-font {
+  font-family: fantasy;
+}
